@@ -1,0 +1,17 @@
+.gallery {
+  justify-content: center;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 24px;
+}
+
+.gallery-item {
+}
+.gallery-link {
+}
+.gallery-image {
+  width: 360px;
+  height: 200px;
+  background: url("path_to_image");
+}
